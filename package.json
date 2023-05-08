@@ -16,7 +16,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@appnest/readme": "^1.2.7",
     "concurrently": "^7.6.0",
     "nodemon": "^2.0.21"
   },
