@@ -40,4 +40,4 @@ The front end will be developed using React.js, with a user-friendly interface t
 The MongoDB database will be used to store job application entries posted by the users, including details such as title, description, category, and contact information. A formal database schema will be created to define the data structure, with relationships between entities modeled using Mongoose. 
 To ensure the security of the application, user authentication and authorization will be implemented, with sessions stored using the Express-session middleware. User passwords will be hashed and salted using bcrypt.js. 
 The web application will be hosted on a cloud-based platform such as Netlify or Heroku, with automated deployments using a continuous integration and continuous deployment (CI/CD) pipeline. A plan for feeding the database with sample data before the project is completed will be created to test the application's functionality.
-
+s
