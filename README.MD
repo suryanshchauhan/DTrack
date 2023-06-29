@@ -15,7 +15,7 @@ In addition, DTrack promotes transparency and accountability in the job search p
 This application is complex and involves various challenging tasks such as establishing a connection with a remote database, executing web requests, managing entries and information within the application and designing an intuitive user interface. It is worth noting that a significant portion of the project scope is not directly related to the material taught in DePauw's computer science department but rather leverages knowledge gained through online courses.
 
 <h2>Project Specifications</h2>
-<h5>Functional Specifications<h5>
+<h5>Functional Specifications</h5>
 
 1.	User Registration: Users will be able to register for the DTrack application using a registration page. They will need to provide their name, email, password, and other personal details that will be stored in the MongoDB database.
 2.	User Authentication: Users will be able to log into the DTrack application using their email and password. Once authenticated, they will have access to their dashboard where they can view and manage their job applications. The DTrack application will have proper security measures in place to protect user data and prevent unauthorized access. User passwords will be hashed and stored securely. The authentication and authorization process will be implemented using JWT tokens. Only authorized users will be able to access the features of the application.
@@ -40,4 +40,3 @@ The front end will be developed using React.js, with a user-friendly interface t
 The MongoDB database will be used to store job application entries posted by the users, including details such as title, description, category, and contact information. A formal database schema will be created to define the data structure, with relationships between entities modeled using Mongoose. 
 To ensure the security of the application, user authentication and authorization will be implemented, with sessions stored using the Express-session middleware. User passwords will be hashed and salted using bcrypt.js. 
 The web application will be hosted on a cloud-based platform such as Netlify or Heroku, with automated deployments using a continuous integration and continuous deployment (CI/CD) pipeline. A plan for feeding the database with sample data before the project is completed will be created to test the application's functionality.
-s
