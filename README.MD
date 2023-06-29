@@ -25,7 +25,7 @@ This application is complex and involves various challenging tasks such as estab
 6.	Application Search: Users will have access to a search feature where they can search for jobs that they applied to by providing relevant keywords. The search results will be displayed using an API between the front end (React) and the back end (Express) and will be fetched from the database client.
 7.	Deployment: The application will be deployed to a cloud-based service such as Heroku and will be accessible to users from any location.
 
-<h5>User Interface Specification:</h5>
+<h5>User Interface Specifications:</h5>
 
  DTrack user interface will consist of a responsive and intuitive design that allows users to easily navigate and interact with the application. The UI will be built using Bootstrap CSS and React.js to ensure a modern and efficient user experience.
 Upon accessing the application, users will be taken to a landing page, where they would be presented with register/login button. The registration page will feature input boxes for personal information, such as name and contact details. After logging in, the user will be directed to the main dashboard, which will consist of a header with the DTrack logo and a summary of their job application statistics. The header would also show the name of the user that is logged in, and there would be a logout button built into the header itself.
