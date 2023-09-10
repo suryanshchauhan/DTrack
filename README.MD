@@ -1,5 +1,5 @@
 <h1>DTrack - Job Application Tracker</h1>
-<p> DTrack was my senior project for completing Computer Science major at DePauw University. </p>
+<p>DTrack was my senior project for completing Computer Science major at DePauw University</p>
 <p>Check out the deployed application: https://dtrack.website/</p>
 
 <h2>Project Summary</h2>
