@@ -1,6 +1,6 @@
 <h1>DTrack - Job Application Tracker</h1>
 <p>Senior Project - Computer Science @ DePauw University</p>
-<p>Check out the deployed application: https://dtrack.live/</p>
+<p>Check out the deployed application: https://dtrack.website/</p>
 
 <h2>Project Summary</h2>
 
